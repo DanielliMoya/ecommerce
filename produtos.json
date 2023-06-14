@@ -1,0 +1,53 @@
+{
+  "produtos": [
+    {
+      "id": 2,
+      "title": "Produto 3",
+      "category": "Produto 3 da minha lista",
+      "image": "https://images.pexels.com/photos/548381/pexels-photo-548381.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "price": 35.55
+    },
+    {
+      "id": 3,
+      "title": "Produto 3",
+      "category": "Produto 3 da minha lista",
+      "image": "https://images.pexels.com/photos/548375/pexels-photo-548375.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "price": 35.55
+    },
+    {
+      "id": 4,
+      "title": "Produto 4",
+      "category": "Produto 4 da minha lista",
+      "image": "https://images.pexels.com/photos/2480071/pexels-photo-2480071.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "price": 58.55
+    },
+    {
+      "id": 5,
+      "title": "Produto 5",
+      "category": "Produto 5 da minha lista",
+      "image": "https://images.pexels.com/photos/931177/pexels-photo-931177.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "price": 18.55
+    },
+    {
+      "id": 7,
+      "title": "Produto 5",
+      "category": "Produto 5 da minha lista",
+      "image": "https://images.pexels.com/photos/1408221/pexels-photo-1408221.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "price": 18.55
+    },
+    {
+      "id": 8,
+      "title": "Produto 6",
+      "category": "Produto 6 da minha lista",
+      "image": "https://images.pexels.com/photos/850359/pexels-photo-850359.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "price": 12.55
+    },
+    {
+      "title": "Produto 10 novo",
+      "category": "Produto 1 da minha lista",
+      "image": "https://img.elo7.com.br/product/original/3E05A04/ramo-decorativo-com-flor-e-folhas-decorativo.jpg",
+      "price": 50.55,
+      "id": 10
+    }
+  ]
+}
